@@ -37,7 +37,7 @@ Este es un sitio web de portafolio personal que muestra mi formación académica
 
 ## Sitio Web 🔗
 
-Puedes ver el sitio web del portafolio en vivo aquí: [Sitio Web](encharting-crostata-8f6e9d.netlify.app)
+Puedes ver el sitio web del portafolio en vivo aquí: encharting-crostata-8f6e9d.netlify.app
 
 
 
